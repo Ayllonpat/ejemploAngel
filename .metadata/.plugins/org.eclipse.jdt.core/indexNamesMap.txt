@@ -1,3 +1,1 @@
 INDEX VERSION 1.134
-file:/C:/Users/alonso.aypat22_trian/Desktop/DAM1/Programación/ejemplosangel/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
-meta_index
